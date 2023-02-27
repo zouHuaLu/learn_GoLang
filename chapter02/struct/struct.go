@@ -8,5 +8,5 @@ func main() {
 		Address string
 	}
 	var jay Employee
-	jay.Id = 001
+	jay.Id = 002
 }
